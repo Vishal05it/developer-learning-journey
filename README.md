@@ -59,6 +59,7 @@ While building **EaseWork**, I learned modern full-stack development using Next.
 ### New Technologies
 
 * Next.js 15
+* API Routes
 * App Router
 * TypeScript
 * Server Components
